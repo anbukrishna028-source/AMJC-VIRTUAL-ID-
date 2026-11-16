@@ -1,5 +1,5 @@
 /* Bump VERSION every time index.html changes, so phones fetch the new copy. */
-const VERSION = 'v2';
+const VERSION = 'v4';
 const CACHE = 'amj-id-' + VERSION;
 const FILES = ['./', 'index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png'];
 
